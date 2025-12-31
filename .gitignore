@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Go
+*.exe
+*.log
+vendor/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
