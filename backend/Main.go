@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	filehandling "Oneupload/Filehandling"
+	filehandling "Oneupload/filehandling"
 	"Oneupload/apicalling"
 	connect "Oneupload/dbconnection" // alias import as "connect"
 	"Oneupload/middleware"
